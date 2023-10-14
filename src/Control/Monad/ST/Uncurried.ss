@@ -1,4 +1,4 @@
-(library (Control.Monad.ST.Internal foreign)
+(library (Control.Monad.ST.Uncurried foreign)
   (export
     mkSTFn1
     mkSTFn2
